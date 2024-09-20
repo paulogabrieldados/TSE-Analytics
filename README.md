@@ -21,10 +21,25 @@ Contando com dimensões como idade, média de bens e estado civil, os dados busc
           - UF_FULL: Tipo texto, que contém o nome dos estados brasileiros.
   - **tse_fato** :
       - Colunas:
-          - avg_Bens: Número decimal, categoria moeda, que contem a média dos bens dos candidatos.
+          - avg_Bens: Número decimal, categoria moeda, que contem a média dos bens dos candidatos por estado.
           - abgBensNotZero: Número decimal, categoria moeda, que contém a média dos bens dos candidatos sem levar em consideração os valores 0.
-          - avdIdade: Número inteiro, média de idade dos candidadatos.
-          - CS_CARGO: 
+          - avdIdade: Número inteiro, média de idade dos candidadatos por estado.
+          - DS_CARGO: Tipo texto, que contém a descrição dos cargos.
+          - SG_PARTIDO: Tipo texto, que contém a sigla dos partidos.
+          - SG_UF: tipo texto, que contém a sigla dos estados brasileiros.
+          - totalBens: número inteiro, que contém a somatória dos bens declarados pelos candidatos por estado.
+          - totalCandidaturas: tipo inteiro, total de candidaturas por estado e por cargo.
+          - totalCorRaçaNaoBranca: tipo inteiro, total de candidaturas por estado e por cargo de pessoas que declararam como Raça Não Branca.
+          - totalCorRaçaPreta: tipo inteiro, total de candidaturas por estado e por cargo de pessoas que declararam como Raça Preta.
+          - totalCorRaçaPretaParda: tipo inteiro, total de candidaturas por estado e por cargo de pessoas que declararam como Raça Preta/Parda.
+          - totalGenFeminino: tipo inteirom, total de candidaturas por estado e por cargo de pessoas que declararam como Gênero feminino.
+          - txCorRaçaNaoBranca: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam como Raça Não Branca.
+          - txCorRaçaPreta: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam como Raça Preta.
+          - txCorRaçaPretaParda: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam como Raça Preta.
+          - txGenFeminino: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam como Gênero Feminino.
+          - txEstadoCivilCasado: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam estado civil casado.
+          - txEstadoCivilSeparadoDivorciado: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam estado civil separado/divorciado.
+          - txEstadoCivilSolteiro: tipo número decimal,  porcentagem de candidatos por estado e por cargo de pessoas que declararam estado civil solteiro.
 
 
 ## 🔬 Análise dos Resultados:
