@@ -44,4 +44,24 @@ Contando com dimensões como idade, média de bens e estado civil, os dados busc
 
 ## 🔬 Análise dos Resultados:
 
+### Visão Geral
+- 458.97 mil candidatos concorrem aos cargos de Prefeito, Vice-prefeito e Vereador em todo o Brasil.
+- 242.98 mil candidatos declaram serem de raça preta/parda.
+- 52.26 mil candidatos declararam serem de raça Preta.
+- 249.42 mil candidatos declararam serem de raça não branca.
+- São Paulo é o estado com maior número de candidatos aos cargos.
+- O estado com maior representatividade de candidatos de raça preta é a Bahia também sendo o 3 maior em número de candidatos, enquanto o menor é o Rio Grande do Sul com 4.81%.
+- Amapá tem a maior taxa de candidatos de raça não branca e preta/parda.
+
+### Visão Partidos
+- MDB é o partido com maior número de candidatos com 44.086 mil candidatos.
+- O partido com menor número de candidatos é o PCB.
+- O partido com mais bens declarados é também o MDB com 191.057.604,56 bilhões declarados, partido esse conhecido por ser o partido dos super ricos.
+- O partido com menos bens declarados é o PCO com 1.833.602,53 milhões declarados em todo país.
+### Visão Candidatos
+- A média de idade dos candidatos é 48 anos.
+- 53% dos candidatos declararam estado civil casado.
+- 0.61% dos candidatos declararam estado civil separado/divorciado.
+- 
+- 
 ## Evolução & Próximos Passos: 
